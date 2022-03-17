@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/gpsoft-logo.png" width="320" alt="Logo GPSOFT" /></a>
+  <img src="./img/gpsoft-logo.PNG" width="320" alt="Logo GPSOFT" /></a>
 </p>
 
 ## Technologias usadas neste projeto
