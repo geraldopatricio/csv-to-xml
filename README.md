@@ -13,3 +13,6 @@ Este Script tem por Objetivo percorrer o XML e colocar as informações corretas
 ```bash
 $ python xml_cadoc_3040.py
 ```
+
+## Vídeo Demonstrativo
+https://youtu.be/nRe7lGX6Vso 
